@@ -8,5 +8,5 @@ Customizing Maltplotlib themes: https://matplotlib.org/stable/users/explain/cust
 
 ```py
 import matplotlib.pyplot as plt
-plt.style.use('./deeplearning.mplstyle')
+plt.style.use('./minimalistic/deeplearning.mplstyle')
 ```
